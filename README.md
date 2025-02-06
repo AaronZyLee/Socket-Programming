@@ -1,6 +1,5 @@
-# ee450-project-19spring   
-	Name:Zeyu Li
-	ID: 8349389776
+# Socket-Programming-Project
+
 ### What I have done  
 	I have completed all parts of requirement.     
 	1. Phase 1  
